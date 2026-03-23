@@ -1,21 +1,10 @@
-name: lm_bazaar
-description: "A new Flutter project for Lm Bazaar."
-publish_to: 'none'
+# Pont Bazar
 
-version: 1.0.0+1
+An AI-powered e-commerce app.
 
-environment:
-  sdk: '>=3.0.0 <4.0.0'
+## Features
+- Order system
+- AI chat support
 
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.6
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^3.0.0
-
-flutter:
-  uses-material-design: true
+## Author
+LM
